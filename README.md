@@ -1,5 +1,3 @@
-## About Me
-
 <!--
 **kelgruber/kelgruber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Updated 2/10/26 Kel Gruber
 -->
+
+## About Me
+I'm a recent graduate of the UMSL Master of Science in Computer Science program. My core competencies include AWS, Python, and statistical analysis. I have a strong foundation in data cleaning, data visualization, and scalable project infrastructure design. I am committed to learning and using my growing expertise in Computer Vision and Data Science to develop impactful solutions and intelligent software.
+
+## I’m currently learning how to design and build AI Agents
 
 ## Main skills
 
