@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 <!--
 **kelgruber/kelgruber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,nodejs,react,express,cpp,cs,html,css)](https://skillicons.dev)
+
+### Studying
+[![Learning](https://skillicons.dev/icons?i=aws,)](https://skillicons.dev)
