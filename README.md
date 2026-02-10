@@ -15,21 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Main skills
-[![Programming Skills](https://skillicons.dev/icons?i=py,c,cpp,mongodb,nodejs,react,express,html,css)](https://skillicons.dev)
+## Main skills
 
-### AI Development Tools
-[![AI Tools](https://skillicons.dev/icons?i=py,tensorflow,pytorch,)](https://skillicons.dev)
+#### Programming Languages
+[![Programming Skills](https://skillicons.dev/icons?i=py,c,cpp,mongodb,javascript,html,css)](https://skillicons.dev)
 
-### Development & Productivity Tools
-[![Programming Skills](https://skillicons.dev/icons?i=github,git,bash,linux)](https://skillicons.dev)
+#### Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,react,express,bootstrap)](https://skillicons.dev)
 
-### Studying
+#### AI Development Tools
+[![AI Tools](https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv)](https://skillicons.dev)
+
+#### Development & Productivity Tools
+[![Programming Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,bash,linux)](https://skillicons.dev)
+
+#### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,docker,)](https://skillicons.dev)
 
 ### Connect with Me
 <div>
     <a href="https://www.linkedin.com/in/kelly-gruber/">
-        <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
     </a>
 </div>
