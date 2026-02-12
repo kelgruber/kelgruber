@@ -18,7 +18,7 @@ Updated 2/10/26 Kel Gruber
 ## About Me
 I'm a recent graduate of the UMSL Master of Science in Computer Science program. My core competencies include AWS, Python, and statistical analysis. I have a strong foundation in data cleaning, data visualization, and scalable project infrastructure design. I am committed to learning and using my growing expertise in Computer Vision and Data Science to develop impactful solutions and intelligent software.
 
-- 🔭 I’m currently working on an web app for the design and creation of cross-stitch patterns using image processing and computer vision algorithms. 
+- 🔭 I’m currently working on a web app for the design and creation of cross-stitch patterns using image processing and computer vision algorithms. 
 - 🌱 I’m currently learning how to design and build AI Agents.
 - 👯 I am looking to collaborate with other developers.
 - ⚡ One fun fact about me is that I have a BFA with a Double Major in Fiber and Art History. I started programming to automate repetitive tasks at my job and found that I wanted to do it for my career.
@@ -38,6 +38,11 @@ I'm a recent graduate of the UMSL Master of Science in Computer Science program.
 
 #### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,docker,)](https://skillicons.dev)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kelgruber&show_icons=true&theme=radical)
+<!--
+[![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kelgruber&layout=compact&langs_count=8&theme=algolia)](https://github.com/kelgruber) 
+-->
 
 ### Connect with Me
 <div>
