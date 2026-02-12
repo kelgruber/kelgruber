@@ -27,11 +27,8 @@ I'm a recent graduate of the UMSL Master of Science in Computer Science program.
 #### Programming Languages
 [![Programming Skills](https://skillicons.dev/icons?i=py,c,cpp,mongodb,javascript,html,css)](https://skillicons.dev)
 
-#### Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,react,express,bootstrap)](https://skillicons.dev)
-
-#### AI Development Tools
-[![AI Tools](https://skillicons.dev/icons?i=py,tensorflow,pytorch,opencv)](https://skillicons.dev)
+#### Libraries & Frameworks
+[![Libraries & Frameworks](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,nodejs,react,express,bootstrap)](https://skillicons.dev)
 
 #### Development & Productivity Tools
 [![Programming Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,bash,linux)](https://skillicons.dev)
@@ -39,8 +36,9 @@ I'm a recent graduate of the UMSL Master of Science in Computer Science program.
 #### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,docker,)](https://skillicons.dev)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kelgruber&show_icons=true&theme=radical)
+
 <!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kelgruber)]
 [![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kelgruber&layout=compact&langs_count=8&theme=algolia)](https://github.com/kelgruber) 
 -->
 
